@@ -1,1 +1,3 @@
 # My-ReactJs
+
+npm install
