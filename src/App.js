@@ -4,18 +4,18 @@
 import React from 'react'
 import './App.css';
 import Modal from 'react-modal';
-import ReactIcons from './components/ReactIcons';
-import ReactNotifications from './components/ReactNotifications';
-import ReactModal from './components/ReactModal';
-import ReactTooltip from './components/ReactTooltip';
-import ReactCountUp from './components/ReactCountUp';
-import ReactIdleTimer from './components/ReactIdleTimer';
-import ReactColorPicker from './components/ReactColorPicker';
-import ReactCreditCards from './components/ReactCreditCards';
-import ReactDatePicker from './components/ReactDatePicker';
-import ReactVideoPlayer from './components/ReactVideoPlayer';
-import ReactSpinners from './components/ReactSpinners';
-import ReactChart from './components/ReactChart';
+import ReactIcons from './Practical_Components/ReactIcons';
+import ReactNotifications from './Practical_Components/ReactNotifications';
+import ReactModal from './Practical_Components/ReactModal';
+import ReactTooltip from './Practical_Components/ReactTooltip';
+import ReactCountUp from './Practical_Components/ReactCountUp';
+import ReactIdleTimer from './Practical_Components/ReactIdleTimer';
+import ReactColorPicker from './Practical_Components/ReactColorPicker';
+import ReactCreditCards from './Practical_Components/ReactCreditCards';
+import ReactDatePicker from './Practical_Components/ReactDatePicker';
+import ReactVideoPlayer from './Practical_Components/ReactVideoPlayer';
+import ReactSpinners from './Practical_Components/ReactSpinners';
+import ReactChart from './Practical_Components/ReactChart';
 
 
 Modal.setAppElement('#root')
