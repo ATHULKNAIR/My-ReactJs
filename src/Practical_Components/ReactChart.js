@@ -18,9 +18,9 @@ function ReactChart() {
     
     return  (
         <div style={{height:'200px',width:'500px', marginLeft:'500px'}}>
-            <Line data={data}  />
-            <Bar data ={data} />
-            <Doughnut data ={data} />
+            <Line data = {data}  />
+            <Bar data = {data} />
+            <Doughnut data = {data} />
         </div>
     )
 
