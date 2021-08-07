@@ -9,7 +9,6 @@ function ReactChart() {
         datasets:[{
             label:'Sales for 2021 (M)',
             data:[3,2,2,1,5],
-           
         },{
             label:'Sales for 2020 (M)',
             data:[1,3,2,2,3]
@@ -23,7 +22,6 @@ function ReactChart() {
             <Doughnut data = {data} />
         </div>
     )
-
 }
 
 export default ReactChart
